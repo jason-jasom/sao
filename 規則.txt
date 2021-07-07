@@ -1,4 +1,4 @@
-編譯之前，要在linker內加入-lwinmm
+如果無法編譯，要在linker內加入-lwinmm
 
 方向鍵:上下左右
 空白鍵:平砍
